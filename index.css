@@ -2,3 +2,15 @@
   display: flex;
   flex-direction: row;
 }
+
+.cell {
+  width: 10px;
+  height: 10px;
+  background: yellow;
+}
+
+#player {
+  width: 10px;
+  height: 10px;
+  background: red;
+}
